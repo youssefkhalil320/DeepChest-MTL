@@ -1,0 +1,11 @@
+{
+    "initial_weights": {
+        "gender_output": 1.0,
+        "masterCategory_output": 1.0,
+        "subCategory_output": 1.1,
+        "articleType_output": 1.1,
+        "baseColour_output": 1.2,
+        "season_output": 1.2,
+        "usage_output": 1.05
+    }
+}

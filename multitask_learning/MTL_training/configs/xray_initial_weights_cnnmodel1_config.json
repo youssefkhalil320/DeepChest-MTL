@@ -1,0 +1,18 @@
+{
+    "initial_weights": {
+        "Atelectasis_output": 1.0506,
+        "Cardiomegaly_output": 1.01035,
+        "Consolidation_output": 1.0208,
+        "Edema_output": 1.009,
+        "Effusion_output": 1.05525,
+        "Emphysema_output": 1.011,
+        "Fibrosis_output": 1.0071,
+        "Hernia_output": 1.00055,
+        "Infiltration_output": 1.0878,
+        "Mass_output": 1.02655,
+        "Nodule_output": 1.0272,
+        "Pleural_Thickening_output": 1.01455,
+        "Pneumonia_output": 1.00615,
+        "Pneumothorax_output": 1.02285
+    }
+}

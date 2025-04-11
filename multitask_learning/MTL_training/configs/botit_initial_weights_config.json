@@ -1,0 +1,11 @@
+{
+    "initial_weights": {
+        "GenericName_output": 1.38215,
+        "shoppingCategory_output": 1.0007,
+        "shoppingSubcategory_output": 1.2243,
+        "itemSubcategory_output": 1.3634,
+        "itemCategory_output": 1.28905,
+        "normalized_color_output": 1.2304,
+        "normalized_Generic_Name_output": 1.33925
+    }
+}
